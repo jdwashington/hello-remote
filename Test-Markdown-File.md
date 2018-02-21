@@ -10,4 +10,4 @@ Look up mars at:
 
 Learn more at:
 
-[Markdown in 60 seconds](htttps://www.commonmark.org/help/)
+[Markdown in 60 seconds](https://www.commonmark.org/help/)
